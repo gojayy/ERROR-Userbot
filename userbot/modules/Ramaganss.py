@@ -79,7 +79,7 @@ async def typewriter(typew):
                      "╬═╬ \n"
                      "╬═╬ \n"
                      "╬═╬ \n"
-                     "╬═╬ Hallo ANAK STRESS,AKU DATANG :) \n"
+                     "╬═╬ Hai BANGSAT,BUBAR BUBAR! \n"
                      "╬═╬☻/ \n"
                      "╬═╬/▌ \n"
                      "╬═╬/ \\ \n")
@@ -291,9 +291,9 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("**EH TAPI KALO DI SURUH MALAH NGELAWAN**")
     sleep(1)
-    await typew.edit("**DI DIEMIN NGELUNJAK CUIHHHHH**")
+    await typew.edit("**DI DIEMIN NGELUNJAK HUEKK CUIIHHH**")
     sleep(1)
-    await typew.edit("**OAAAASUUUUUUUUUUU SIGOBLOK MENGAKTIFKAN**")
+    await typew.edit("**NGENTOTTTTT SIGOBLOK MENGAKTIFKAN**")
     sleep(1)
     await typew.edit("**SEMUA JURUS YANG KU PUNYA UNTUK GBAN**")
     sleep(1)
@@ -301,9 +301,9 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("**TAPI BOONG!!!🤪🤪🤪**")
     sleep(1)
-    await typew.edit("**PAL PALE PAL PALE,MUKE LU MIRIP TOKEK**")
+    await typew.edit("**PAL PALE PAL PALE,MUKA LU KAYA KONTOL**")
     sleep(1)
-    await typew.edit("**HAYYYYUUUKKKKK,PAM PIPAM PIPAM PIPAM PAM PIPAM PIPAM**")
+    await typew.edit("**ZZZ**")
 
 @register(outgoing=True, pattern='^.tolol(?: |$)(.*)')
 async def typewriter(typew):
@@ -332,13 +332,13 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("`Memeriksa dyno heroku anda...`")
     sleep(1)
-    await typew.edit("**STRESS USAGE:**\n"
+    await typew.edit("**ERROR USAGE:**\n"
                      "╔════════════════════╗\n"
                      "`✥Penggunaan dyno Anda:`\n"
-                     "**❉1000 Jam - 1000 Menit 100%**\n"
+                     "**❉0 Jam - 0 Menit 0%**\n"
                      " ✤⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉✤\n"
                      "✥ `Sisa dyno bulan ini:`\n"
-                     "**999999 jam - 999999 Menit 999%**\n"
+                     "**0 jam - 0 Menit 0%**\n"
                      "╚════════════════════╝")
 
 @register(outgoing=True, pattern='^.oy(?: |$)(.*)')
@@ -358,7 +358,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("**Jempol lu kebas? Apa dah putus?**")
     sleep(1)
-    await typew.edit("**NIMBRUNGGG GOBLOK!!!!**")
+    await typew.edit("**NIMBRUNGGG KONTOL!!!!**")
 CMD_HELP.update({
     "vip":
     "`.bulan` ; `.hati` ; `.gbn` ; `.tolol`\
