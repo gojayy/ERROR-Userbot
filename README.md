@@ -13,7 +13,7 @@ USERBOT" /></a>
 </p>  
 
 # ERROR Userbot
-![Lord Userbot Logo](https://telegra.ph/file/7479a3036b141a89c5351.mp4)
+![Lord Userbot Logo](https://telegra.ph/file/b1e380939d14cf25052f6.jpg)
 
 <h3 align="center">REPO ERROR TERCIPTA KARNA DICIPTAKAN!!</h3>
 <p align="center">&nbsp;</p>
