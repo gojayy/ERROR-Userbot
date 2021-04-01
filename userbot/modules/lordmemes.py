@@ -35,17 +35,17 @@ async def _(event):
 
         animation_chars = [
 
-            "EFRY GILAAAA!!!",
-            "AYASS STRESS",
-            "ANGGA NGONTOLLL!!!",
-            "MUYUN HODE!!!!",
-            "ENJEL BAPERAN, IDIHHH!!!",
-            "NADIA BUCINN, CUIHHH!!!!",
-            "RAKA GA KEREN!!",
-            "IQBAL GAYY",
-            "TIARA DEPRESI!!!",
-            "CUMA RAMA YANG WARAS, KALIAN STRESS!!",
-            "RAMA GANTENG NO DEBAT!!!"
+            "ARRGGHH!!!",
+            "AING MACAN",
+            "AING MAUNG!!!",
+            "SAHAAA IEUUU!!!!",
+            "IEUUU SAHAAA,ANYING!!!",
+            "SAHAAA KONTOL!!!!",
+            "ETDEH DITANYAIN!!",
+            "NYAUT ANJING",
+            "DENGER GA SI!!!",
+            "WOI KONTOLLL, NGENTOT!!",
+            "ANJING LO SEMUA!!!"
         ]
 
         for i in animation_ttl:
@@ -209,7 +209,7 @@ async def _(event):
             "------------------>",
             "------>;(^。^)ノ",
             "(￣ー￣) MENINGGOY",
-            "**Mati Lu Anjing 😵😵**",
+            "**Mati Lo Kontol 😵😵**",
         ]
 
         for i in animation_ttl:
