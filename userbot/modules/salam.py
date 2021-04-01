@@ -10,7 +10,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 @register(outgoing=True, pattern='^P(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("Assalamu'alaikum ")
+    await typew.edit("Assalamu'alaikum dulu biar slek")
 
 
 @register(outgoing=True, pattern='^.atg(?: |$)(.*)')
@@ -22,7 +22,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^L(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("Wa'alaikumsalam")
+    await typew.edit("Wa'alaikumsalam, Ayo slek")
 
 
 @register(outgoing=True, pattern='^.ast(?: |$)(.*)')
@@ -34,18 +34,18 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^K(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**NGONTOLLLLLL**")
+    await typew.edit("**KONTOOOLLL LO**")
 
 
 @register(outgoing=True, pattern='^N(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**NGENTOOOOOOOTTTTTTTTTTTT**")
+    await typew.edit("**NGENTOOOTTT LO**")
 
 @register(outgoing=True, pattern='^B(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**BACOT DAH LU, GOBLOK!!!!**")
+    await typew.edit("**BANYAK BACOT KONTOL!!!!**")
 
 
 @register(outgoing=True, pattern='^M(?: |$)(.*)')
@@ -56,7 +56,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^Y(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**YAUDAH IYAAAAAA ASU**")
+    await typew.edit("**YAUDA KONTOL**")
 
 
 @register(outgoing=True, pattern='^C(?: |$)(.*)')
@@ -74,7 +74,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^V(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**MACAM BAGUS AE LU BEGITU KONTOL!!**")
+    await typew.edit("**DIKIRA KEREN LO BEGITU KONTOL!!**")
 
 
 @register(outgoing=True, pattern='^J(?: |$)(.*)')
