@@ -190,8 +190,8 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [ 
-   "**OWNER STREES USER-BOT ADALAH MANUSIA TERGANTENG DI HATI PEMAKAI NYA KENALAN DULU SAMA OWNER NYA YUK**"
-   "**RAMADHANI NAMANYA,ORANG NYA BAIK**"
+   "**OWNER ERROR USER-BOT ADALAH MANUSIA TERGANTENG DI HATI PEMAKAI NYA **"
+   "**GOJAY NAMANYA,ORANG NYA BAIK**"
    "**TINGGAL NYA DI TANGERANG, BTW ORANG TANGERANG GANTENG GANTENG DAN KUAT KUAT AWWHHHH**"
    "**KALO MAU PAKE USERBOT INI,IZIN DULU KE ORANG NYA YA GENGSSS**"
    "**POKOK NYA OWNER NYA THEBEST BANGET SERIUSSSSS**"
@@ -207,7 +207,7 @@ async def _(event):
 # Lord
 CMD_HELP.update({
     "animasi":
-    "`.nah` ; `.huh` ; `.owner`\
+    "`.nah` ; `.huh` ;`.owner`\
     \nUsage: cobain.\
     \n\n`.bunga` ; `.buah`\
     \nUsage: animasi.\
