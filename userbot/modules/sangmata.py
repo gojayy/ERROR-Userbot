@@ -16,7 +16,7 @@ async def lastname(steal):
     if steal.fwd_from:
         return
     if not steal.reply_to_msg_id:
-        await steal.edit("```Mohon Balas Ke Pesan Pengguna Sayang.```")
+        await steal.edit("```Mohon Balas Ke Pesan Pengguna Tuanku.```")
         return
     message = await steal.get_reply_message()
     chat = "@SangMataInfo_bot"
@@ -25,7 +25,7 @@ async def lastname(steal):
     if message.sender.bot:
         await steal.edit("```Balas Ke Pesan Pengguna Yang Sebenarnya.```")
         return
-    await steal.edit("```GUA KEPO,NGAPALU? GA SENENG? ツ```")
+    await steal.edit("```LO SIAPA SI NGENTOT? ZZZ ツ```")
     try:
         async with bot.conversation(chat) as conv:
             try:
@@ -59,7 +59,7 @@ async def lastname(steal):
                 conv.chat_id, [msg.id, r.id, response.id, respond.id]
             )
     except TimeoutError:
-        return await steal.edit("`Saya Sedang Sakit Lord Maaf`")
+        return await steal.edit("`Saya Sedang Sakau Tuanku Maaf`")
 
 
 CMD_HELP.update({
