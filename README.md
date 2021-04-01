@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5511978.gif" width="516" height="211" alt="  ERROR
+<a href="https://cooltext.com"><img src="https://telegra.ph/file/bfd0ee81609f1bd180c98.jpg" width="516" height="211" alt="  ERROR
 USERBOT" /></a>
 
 
