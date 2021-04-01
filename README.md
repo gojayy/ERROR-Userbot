@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5511978.gif" width="516" height="211" alt="  STRESS
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5511978.gif" width="516" height="211" alt="  ERROR
 USERBOT" /></a>
 
 
@@ -12,13 +12,13 @@ USERBOT" /></a>
   </a>
 </p>  
 
-# STRESS Userbot
+# ERROR Userbot
 ![Lord Userbot Logo](https://telegra.ph/file/7479a3036b141a89c5351.mp4)
 
 <h3 align="center">REPO ERROR TERCIPTA KARNA DICIPTAKAN!!</h3>
 <p align="center">&nbsp;</p>
 
-### Repo STRESS Userbot
+### Repo ERROR Userbot
 Repo Yang Dibuat [Rama](https://t.me/Ramadhaniiiiiiiii1) Dari Berbagai Repo Userbot Github 
 
 
