@@ -19,7 +19,7 @@ USERBOT" /></a>
 <p align="center">&nbsp;</p>
 
 ### Repo ERROR Userbot
-Repo Yang Dibuat [Rama](https://t.me/Ramadhaniiiiiiiii1) Dari Berbagai Repo Userbot Github 
+Repo Yang Dibuat [gojay](https://t.me/ifcksht) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
